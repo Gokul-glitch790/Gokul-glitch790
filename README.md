@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-📫 Reach Me on Linkedin: [...](https://www.linkedin.com/in/gokul-laxmana-43498a145/)
+📫 Reach Me on Linkedin: (https://www.linkedin.com/in/gokul-laxmana-43498a145/)
 
 📫 Meet Me on Github: [...](https://github.com/Gokul-glitch790/)
 
